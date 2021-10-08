@@ -16,5 +16,9 @@
     "access": "public"
   },
   "version": "0.0.2",
-  "typings": "./index.d.ts"
+  "typings": "./index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vok123/vital-core.git"
+  }
 }
