@@ -1,0 +1,20 @@
+{
+  "author": {
+    "name": "vok123"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "vital-core",
+  "devDependencies": {
+    "@types/node": "^16.9.6"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "main": "./index.js",
+  "name": "vital-core",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "0.0.2",
+  "typings": "./index.d.ts"
+}
